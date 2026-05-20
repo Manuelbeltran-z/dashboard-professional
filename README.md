@@ -2,7 +2,7 @@
 
 A professional admin dashboard built with React 18, TypeScript, and modern tooling.
 
-## 🚀 Live Demo
+## Live Demo
 
 [View on Vercel](https://dashboard-profesional.vercel.app) <!-- update after deploy -->
 
@@ -12,15 +12,15 @@ A professional admin dashboard built with React 18, TypeScript, and modern tooli
 
 ## ✨ Features
 
-- 🔐 **Authentication** — Login with form validation (React Hook Form + Zod)
-- 🔒 **Protected Routes** — Dashboard inaccessible without login (React Router v6)
-- 👥 **Users** — List with real-time search filter + user detail page
-- 📝 **Posts** — CRUD: view, create, and delete posts
-- 🗃️ **Global State** — Auth managed with Zustand
-- ⚡ **Server State** — Data fetching and caching with TanStack Query
-- ✅ **Tests** — 5 tests passing with Vitest + React Testing Library
+-  **Authentication** — Login with form validation (React Hook Form + Zod)
+-  **Protected Routes** — Dashboard inaccessible without login (React Router v6)
+-  **Users** — List with real-time search filter + user detail page
+-  **Posts** — CRUD: view, create, and delete posts
+-  **Global State** — Auth managed with Zustand
+-  **Server State** — Data fetching and caching with TanStack Query
+-  **Tests** — 5 tests passing with Vitest + React Testing Library
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology            | Purpose                |
 | --------------------- | ---------------------- |
@@ -32,7 +32,7 @@ A professional admin dashboard built with React 18, TypeScript, and modern tooli
 | Vitest + RTL          | Testing                |
 | Vite                  | Build tool             |
 
-## 🏃 Getting Started
+##  Getting Started
 
 ```bash
 # Clone the repo
@@ -48,14 +48,14 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-## 🔑 Demo Credentials
+##  Demo Credentials
 
 ```
 Email:    usertest@admin.com
 Password: 12345678
 ```
 
-## 🧪 Running Tests
+##  Running Tests
 
 ```bash
 npm test
@@ -63,13 +63,13 @@ npm test
 
 All 5 tests pass:
 
-- ✅ Login form renders correctly
-- ✅ Invalid credentials show error
-- ✅ Valid credentials call login store
-- ✅ Dashboard layout renders navigation
-- ✅ Dashboard header shows user name
+-  Login form renders correctly
+-  Invalid credentials show error
+-  Valid credentials call login store
+-  Dashboard layout renders navigation
+-  Dashboard header shows user name
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -91,10 +91,10 @@ src/
     └── index.ts             # Shared TypeScript interfaces
 ```
 
-## 📡 API
+##  API
 
 Uses [JSONPlaceholder](https://jsonplaceholder.typicode.com/) as a free REST API for demo data.
 
-## 📄 License
+##  License
 
 MIT
