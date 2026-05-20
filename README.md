@@ -6,11 +6,11 @@ A professional admin dashboard built with React 18, TypeScript, and modern tooli
 
 [View on Vercel](https://dashboard-profesional.vercel.app) <!-- update after deploy -->
 
-## 📸 Screenshots
+##  Screenshots
 
 > Login → Dashboard → Users → Posts
 
-## ✨ Features
+##  Features
 
 -  **Authentication** — Login with form validation (React Hook Form + Zod)
 -  **Protected Routes** — Dashboard inaccessible without login (React Router v6)
