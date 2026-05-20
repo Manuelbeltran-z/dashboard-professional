@@ -4,7 +4,7 @@ A professional admin dashboard built with React 18, TypeScript, and modern tooli
 
 ## Live Demo
 
-[View on Vercel](https://dashboard-profesional.vercel.app) <!-- update after deploy -->
+[View on Vercel](https://dashboard-professional-1jibb8a61-manuel-beltran-s-projects.vercel.app)
 
 ##  Screenshots
 
